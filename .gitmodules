@@ -1,0 +1,18 @@
+[submodule "ORB_SLAM2"]
+	path = ORB_SLAM2
+	url = https://github.com/raulmur/ORB_SLAM2
+[submodule "g2o"]
+	path = g2o
+	url = https://github.com/RainerKuemmerle/g2o
+[submodule "Pangolin"]
+	path = Pangolin
+	url = https://github.com/stevenlovegrove/Pangolin
+[submodule "DBoW2"]
+	path = DBoW2
+	url = https://github.com/dorian3d/DBoW2
+[submodule "eigen"]
+	path = eigen
+	url = https://github.com/RLovelett/eigen
+[submodule "opencv"]
+	path = opencv
+	url = https://github.com/opencv/opencv
